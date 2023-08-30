@@ -1,3 +1,3 @@
 let randomNumber = Math.random();
 
-console.log(randomNumber);
+console.log(randomNumber); //output
